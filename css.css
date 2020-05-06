@@ -1,0 +1,38 @@
+#conteiner {
+		width:700px;
+		height:700px;
+		background:#F5F5F5;
+		margin-left:auto;
+		margin-right:auto;
+		}
+#box {
+		width:5px;
+		height:5px;
+		background: #008080;
+		position: relative;
+		}
+#clicks {
+		width:700px;
+		margin-left:auto;
+		margin-right:auto;
+	}
+button {
+		margin-top:40px;
+		position: relative;
+		left: 25%;
+		height:50px;
+		width: 200px;
+		position: relative;
+		}
+#text_box {
+		text-align: center;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		width: 700px;	
+		height: 20px;
+		outline: 2px solid rgba(199, 194, 194, 0.89); /* черная рамка */
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:40px;
+
+	}
